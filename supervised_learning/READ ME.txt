@@ -1,0 +1,16 @@
+########READ ME###############
+
+This document is created to demonstrate how to use the codes and data of supervised machine learning to generated 
+related results.
+
+code dir: .R code should be processed by R.  Related R package should be installed before executing the code.
+.m code should be processed by Matlab.  The neural network toolbox in Matlab is used to generate related code.
+
+data dir: 
+winequality-red.csv,winequality-white.csv is the raw data I obtained. 
+winequality-combine.csv is the combineddataset generated from the previous two datasets,
+  adding type attribute to denote whether the wine is red wine or white wine.
+winequality.names.txt gives the overall description of raw dataset.
+
+graph dir:
+All graphs used in the report paper are attached in the dir. Some graphs may not be used.
